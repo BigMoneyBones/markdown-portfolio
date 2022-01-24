@@ -1,8 +1,21 @@
 # Jesse's Markdown Portfolio
 ![IMG_20210206_170707_802](https://user-images.githubusercontent.com/87784559/150880267-ac195e63-e049-44f3-94c9-e05ef9e1825a.jpg)
+https://github.com/BigMoneyBones
 
+## Favorite Foods
+1. Cheesecake
+2. Pizza
+3. Sushi
+4. Tacos
 
+### Interests/Hobbies
+* Gym Rat
+* Video Games
+* Foodie
+* Guitar
+* Music
 
+I want to be a _`full stack`_ __developer__
 
 In this assignment, you'll create a simple web page built with Markdown that displays information about yourself.
 
