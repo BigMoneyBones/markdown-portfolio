@@ -1,4 +1,8 @@
 # Jesse's Markdown Portfolio
+![IMG_20210206_170707_802](https://user-images.githubusercontent.com/87784559/150880267-ac195e63-e049-44f3-94c9-e05ef9e1825a.jpg)
+
+
+
 
 In this assignment, you'll create a simple web page built with Markdown that displays information about yourself.
 
